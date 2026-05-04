@@ -33,18 +33,32 @@
 
 
 ## 📸 界面截图
+![大厅01](Screenshots/大厅01.png)  
+**金币大厅界面 | Gold Coin Lobby**
 
-![滚轮赛1](https://github.com/user-attachments/assets/cf0ddac6-aca6-4677-adaf-f94f2de6f6dd)
-![俱乐部13](https://github.com/user-attachments/assets/80bb78f3-77eb-4ea1-8608-f300d9b696b8)
-![经典德州-6人牌桌(TT)](https://github.com/user-attachments/assets/9b7fc87e-ec69-47af-b98e-449e26bf0dea)
-![大厅-俱乐部](https://github.com/user-attachments/assets/5a515c4e-c18f-4719-a2eb-3b094eee0396)
-![011](https://github.com/user-attachments/assets/987fdd0a-48c9-49bb-b936-420106e5dada)
-![08](https://github.com/user-attachments/assets/50774f4c-f43b-4491-aa36-0c91d65a70b5)
-![07-亮手牌](https://github.com/user-attachments/assets/65fe4e23-0fa3-4575-b4dd-b273e05495e3)
-![06-9人桌](https://github.com/user-attachments/assets/437e971e-5539-4df5-88ec-e031b033aad8)
-![03](https://github.com/user-attachments/assets/935dd45e-a186-4835-a86f-77a2d8abcfa8)
+![大满贯](Screenshots/大满贯.jpg)  
+**大满贯界面 | Grand Slam**
 
-> 如需提前获取，请联系下方Telegram@xuzongbin001
+![大转盘01](Screenshots/大转盘01 (1).jpg)  
+**大转盘活动界面 | Lucky Wheel**
+
+![多座竞标赛1](Screenshots/多座竞标赛1.jpg)  
+**多桌锦标赛界面 | Multi-Table Tournament**
+
+![保险3](Screenshots/保险3.jpg)  
+**保险功能界面 | Insurance**
+
+![新手训练营](Screenshots/新手训练营.png)  
+**新手训练营界面 | Beginner Training**
+
+![SNG05](Screenshots/sng05.jpg)  
+**SNG竞赛界面 | Sit & Go**
+
+![04](Screenshots/04.png)  
+**游戏界面示例 | Gameplay Example**
+
+
+
 
 ## 🚀 快速开始（三种方式）
 
