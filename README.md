@@ -45,8 +45,6 @@
 ![多座竞标赛1](Screenshots/多座竞标赛1.jpg)  
 **多桌锦标赛界面 | Multi-Table Tournament**
 
-![保险3](Screenshots/保险3.jpg)  
-**保险功能界面 | Insurance**
 
 ![新手训练营](Screenshots/新手训练营.png)  
 **新手训练营界面 | Beginner Training**
