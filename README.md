@@ -1,4 +1,4 @@
-# Texas Hold'em Game Server|完整德州扑克游戏/德州源码 / Complete Texas Hold'em poker game / 完整德州撲克遊戲**  
+# Texas Hold'em Game Server/ 完整德州撲克遊戲源码 / 德州俱乐部完整德州扑克游戏/德州源码 /德州扑克源码/ Complete Texas Hold'em poker game / 完整德州撲克遊戲**  
 专业规则引擎+流畅UI+实时对战+锦标赛+数据统计，支持单机/联网 / Professional engine+smooth UI+realtime play+tournaments+stats / 專業規則引擎+流暢UI+即時對戰+錦標賽+數據統計
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
